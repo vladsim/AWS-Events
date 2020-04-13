@@ -1,4 +1,4 @@
-### Session Name
+### Session Name  
 **Event:** xxx  
 **Presenter:** xxx  
 **Link:** xxx  
@@ -6,4 +6,6 @@
 **Duration:** xx:xx  
 **Slides:** xxx  
 **Description:** xxx  
+  
+#### Notes  
   
