@@ -1,16 +1,16 @@
 ### re:Invent 2019 Sessionss
   
-| Session Name | Link | Date | Duration | Presentation | 
-| :--- | :---: | :---: | :---: | :---: | 
-| AIM201-S: Paths to anomaly detection w/ TIBCO data science, streaming on AWS | [YouTube](https://www.youtube.com/watch?v=ZTI76iJCRjc) | 2019-12-03 | 47:53 | [AWS Events](https://d1.awsstatic.com/events/reinvent/2019/Hot_paths_to_anomaly_detection_with_TIBCO_data_science,_streaming_on_AWS_AIM201-S.pdf) | 
-| STG239-S: Intuit delivers cloud services to drive customer satisfaction | [YouTube](https://www.youtube.com/watch?v=v0RXARe2hlI) | 2019-12-03 | 26:18 | [AWS Events](https://d1.awsstatic.com/events/reinvent/2019/Intuit_delivers_cloud_services_to_drive_customer_satisfaction_STG239-S.pdf) | 
-| STG302-R: Best practices for Amazon S3 (including storage classes) [REPEAT] | [YouTube](https://www.youtube.com/watch?v=N_3IaOVcIO0) | 2019-12-03 | 55:23 | [AWS Events](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_Best_practices_for_Amazon_S3_(including_storage_classes)_STG302-R.pdf) | 
-| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | 
-| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | 
-| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | 
-| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | 
-| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | 
-| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | 
+| Session Name | Link | Date | Duration | Presentation | Description |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| AIM201-S: Paths to anomaly detection w/ TIBCO data science, streaming on AWS | [YouTube](https://www.youtube.com/watch?v=ZTI76iJCRjc) | 2019-12-03 | 47:53 | [AWS Events](https://d1.awsstatic.com/events/reinvent/2019/Hot_paths_to_anomaly_detection_with_TIBCO_data_science,_streaming_on_AWS_AIM201-S.pdf) | Sensor data on the event stream can be voluminous. In NAND manufacturing, there are millions of columns of data that represent many measured and virtual metrics. These sensor data can arrive with considerable velocity. In this session, learn about developing cross-sectional and longitudinal analyses for anomaly detection and yield optimization using deep learning methods, as well as super-fast subsequence signature search on accumulated time-series data and methods for handling very wide data in Apache Spark on Amazon EMR. The trained models are developed in TIBCO Data Science and Amazon SageMaker and applied to event streams using services such as Amazon Kinesis to identify hot paths to anomaly detection. This presentation is brought to you by TIBCO Software, an APN Partner. |
+| STG239-S: Intuit delivers cloud services to drive customer satisfaction | [YouTube](https://www.youtube.com/watch?v=v0RXARe2hlI) | 2019-12-03 | 26:18 | [AWS Events](https://d1.awsstatic.com/events/reinvent/2019/Intuit_delivers_cloud_services_to_drive_customer_satisfaction_STG239-S.pdf) | In this session, learn about Intuit’s best practices for moving financial data securely and streamlining data management. Hear from Justin Stottlemyer, director and distinguished engineer at Intuit, about his experience moving critical data quickly using NetApp Cloud Sync. Discover how Intuit uses NetApp Cloud Volumes Service to run its file ingestion service with fast performance and with the required SLA delivered. Plus, learn how Intuit architected and used Amazon EBS, Amazon S3, and AWS Transit Gateway with NetApp Cloud Volumes ONTAP to provide multiprotocol storage services with multiple Availability Zones, high availability, and multi-regional disaster recovery for over 3,400 AWS accounts. This presentation is brought to you by NetApp, an APN Partner. |
+| STG302-R: Best practices for Amazon S3 (including storage classes) [REPEAT] | [YouTube](https://www.youtube.com/watch?v=N_3IaOVcIO0) | 2019-12-03 | 55:23 | [AWS Events](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_Best_practices_for_Amazon_S3_(including_storage_classes)_STG302-R.pdf) | Learn best practices for Amazon Simple Storage Service (Amazon S3) security, data protection, storage management, cost optimization, and more. In this session, we look at common Amazon S3 use cases and ways to manage large volumes of data within Amazon S3. Learn more about our latest feature enhancements and how you can get started with each of them. We also talk about ways to monitor and visualize your storage environment. |
+| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | xxx |
+| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | xxx |
+| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | xxx |
+| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | xxx |
+| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | xxx |
+| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | xxx |
 
 ###### | SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | 
 ###### Link to decks: https://aws.amazon.com/events/events-content/?awsf.filter-series=event-series%23reinvent
