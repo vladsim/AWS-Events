@@ -2,10 +2,15 @@
   
 | Session Name | Link | Date | Duration | Presentation | 
 | :--- | :---: | :---: | :---: | :---: | 
-| CMY304: Data modeling with Amazon DynamoDB | [YouTube](https://www.youtube.com/watch?v=DIQVJqiSUkE) | 2019-12-03 | 39:46 | [AWS Events](https://d1.awsstatic.com/events/reinvent/2019/Data_modeling_with_Amazon_DynamoDB_CMY304.pdf) |
-| DAT382: Aurora Serverless: Scalable, cost-effective application deployment | [YouTube](https://www.youtube.com/watch?v=9mTwxghXvlE) | 2019-12-03 | 56:04 | [AWS Events](https://d1.awsstatic.com/events/reinvent/2019/Aurora_Serverless_Scalable,_cost-effective_application_deployment_DAT382.pdf) |
-| DAT403-R1: Amazon DynamoDB deep dive: Advanced design patterns [REPEAT 1]| [YouTube](https://www.youtube.com/watch?v=6yqfmXiZTlM) | 2019-12-06 | 59:12 | [AWS Events](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_1_Amazon_DynamoDB_deep_dive_Advanced_design_patterns_DAT403-R1.pdf) |
-| STG217: Shift your tape backups to AWS to save time and money | [YouTube](https://www.youtube.com/watch?v=J60yQRXwE3k) | 2019-12-04 | 1:01:13 | [AWS Events](https://d1.awsstatic.com/events/reinvent/2019/Shift_your_tape_backups_to_AWS_to_save_time_and_money_STG217.pdf) |
-  
+| AIM201-S: Paths to anomaly detection w/ TIBCO data science, streaming on AWS | [YouTube](https://www.youtube.com/watch?v=ZTI76iJCRjc) | 2019-12-03 | 47:53 | [AWS Events](https://d1.awsstatic.com/events/reinvent/2019/Hot_paths_to_anomaly_detection_with_TIBCO_data_science,_streaming_on_AWS_AIM201-S.pdf) | 
+| STG239-S: Intuit delivers cloud services to drive customer satisfaction | [YouTube](https://www.youtube.com/watch?v=v0RXARe2hlI) | 2019-12-03 | 26:18 | [AWS Events](https://d1.awsstatic.com/events/reinvent/2019/Intuit_delivers_cloud_services_to_drive_customer_satisfaction_STG239-S.pdf) | 
+| STG302-R: Best practices for Amazon S3 (including storage classes) [REPEAT] | [YouTube](https://www.youtube.com/watch?v=N_3IaOVcIO0) | 2019-12-03 | 55:23 | [AWS Events](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_Best_practices_for_Amazon_S3_(including_storage_classes)_STG302-R.pdf) | 
+| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | 
+| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | 
+| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | 
+| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | 
+| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | 
+| SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | 
+
 ###### | SessionName | [YouTube]() | 2019-12-12 | xx:xx | [AWS Events]() | 
 ###### Link to decks: https://aws.amazon.com/events/events-content/?awsf.filter-series=event-series%23reinvent
