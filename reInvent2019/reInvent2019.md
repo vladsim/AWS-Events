@@ -4,9 +4,14 @@
 | :--- | :---: | :---: | :---: | :---: |
 | AIM201-S: Paths to anomaly detection w/ TIBCO data science, streaming on AWS | [YouTube](https://www.youtube.com/watch?v=ZTI76iJCRjc) | 03-12-2019 | 47:53 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/Hot_paths_to_anomaly_detection_with_TIBCO_data_science,_streaming_on_AWS_AIM201-S.pdf) |
 | AIM204-S: Discovering the value of a cloud data platform | [YouTube](https://www.youtube.com/watch?v=xFROBOaqqbw) | 03-12-2019 | 1:02:48 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/Discovering_the_value_of_a_cloud_data_platform_AIM204-S.pdf) |
+| DEM156: Secondary sensing in industrial IoT apps | [YouTube](https://www.youtube.com/watch?v=3Bb-hcm67Zs) | 03-12-2019 | 13:19 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/Secondary_sensing_in_industrial_IoT_apps_DEM156.pdf) |
 | MFG206-L: Leadership session: AWS for the Semiconductor industry | [YouTube](https://www.youtube.com/watch?v=RuRnhVj5hIo) | 03-12-2019 | 52:57 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/Leadership_session_AWS_for_the_Semiconductor_industry_MFG206-L.pdf) |
+| OPN402: Firecracker open-source innovation | [YouTube](https://www.youtube.com/watch?v=yDplzXEdBTI) | 03-12-2019 | 44:14 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/Firecracker_open-source_innovation_OPN402.pdf) |
+| RET202-L: AI/ML drives CPG transformation & customer engagement | [YouTube](https://www.youtube.com/watch?v=rHdpPHheY9M) | 03-12-2019 | 50:15 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/Leadership_session_AIML_drives_CPG_transformation_&_customer_engagement_RET202-L.pdf) |
+| ROB201-L: Leadership session: Welcome to the era of smart robots | [YouTube](https://www.youtube.com/watch?v=q67V5L2AwGY) | 03-12-2019 | 41:34 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/Leadership_session_Welcome_to_the_era_of_smart_robots_ROB201-L.pdf) |
 | SEC207-L: Leadership session: AWS identity | [YouTube](https://www.youtube.com/watch?v=bqAGpeFUP9g) | 03-12-2019 | 51:34 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/Leadership_session_AWS_identity_SEC207-L.pdf) |
 | SEC210-S: Why IAM is the new perimeter, and how to govern it | [YouTube](https://www.youtube.com/watch?v=vIs4A1epDuk) | 03-12-2019 | 1:01:56 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/Why_IAM_is_the_new_perimeter,_and_how_to_govern_it_SEC210-S.pdf) |
+| SEC221-S: Securing the Super Bowl at CBS Interactive | [YouTube](https://www.youtube.com/watch?v=MGhmKPqw0-0) | 03-12-2019 | 52:36 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/Securing_the_Super_Bowl_at_CBS_Interactive_SEC221-S.pdf) |
 | SEC222-S: Protecting you from you: Misconfiguration-caused breaches | [YouTube](https://www.youtube.com/watch?v=uDx9CQJK_Ec) | 03-12-2019 | 44:46 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/Protecting_you_from_you_Misconfiguration-caused_breaches_SEC222-S.pdf) |
 | SEC355: Speculation & leakage: Timing side channels & multi-tenant computing | [YouTube](https://www.youtube.com/watch?v=kQ4H6XO-iao) | 03-12-2019 | 52:00 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/Speculation_&_leakage_Timing_side_channels_&_multi-tenant_computing_SEC355.pdf) |
 | SEC356: Prepare for & respond to security incidents in your AWS environment | [YouTube](https://www.youtube.com/watch?v=8uiO0Z5meCs) | 03-12-2019 | 52:44 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/How_to_prepare_for_&_respond_to_security_incidents_in_your_AWS_environment_SEC356.pdf) |
@@ -18,5 +23,6 @@
 | STP201: How Ginkgo Bioworks uses AWS to make organisms | [YouTube](https://www.youtube.com/watch?v=arDI64ja6KA) | 03-12-2019 | 47:45 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/How_Ginkgo_Bioworks_uses_AWS_to_make_organisms_STP201.pdf) |
 | WPT202: We Power Tech: Promoting fairness in AI/ML | [YouTube](https://www.youtube.com/watch?v=ATly5iqxAWo) | 03-12-2019 | 1:01:55 | N/A |
   
-###### | SessionName | [YouTube]() | 12-12-2019 | xx:xx | [pdf]() |
+###### | SessionName | [YouTube]() | 03-12-2019 | xx:xx | [pdf]() |
 ###### Link to decks: https://aws.amazon.com/events/events-content/?awsf.filter-series=event-series%23reinvent
+###### Last video: 
