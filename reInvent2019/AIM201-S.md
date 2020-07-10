@@ -1,5 +1,5 @@
 ### AIM201-S: Paths to anomaly detection w/ TIBCO data science, streaming on AWS  
-**Event:** re:Invent 2019. 
+**Event:** re:Invent 2019  
 **YouTube:** https://www.youtube.com/watch?v=ZTI76iJCRjc  
 **Published:** 2019-12-03  
 **Duration:** 47:53  
@@ -8,4 +8,3 @@
   
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ZTI76iJCRjc/0.jpg)](http://www.youtube.com/watch?v=ZTI76iJCRjc)
   
-#### Notes  
