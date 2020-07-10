@@ -2,7 +2,7 @@
   
 | Session Name | YouTube | Duration | Deck | Details |
 | :--- | :---: | :---: | :---: | :---: |
-| AIM201-S: Paths to anomaly detection w/ TIBCO data science, streaming on AWS | [video](https://www.youtube.com/watch?v=ZTI76iJCRjc) | 47:53 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/Hot_paths_to_anomaly_detection_with_TIBCO_data_science,_streaming_on_AWS_AIM201-S.pdf) | [link]() |
+| AIM201-S: Paths to anomaly detection w/ TIBCO data science, streaming on AWS | [video](https://www.youtube.com/watch?v=ZTI76iJCRjc) | 47:53 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/Hot_paths_to_anomaly_detection_with_TIBCO_data_science,_streaming_on_AWS_AIM201-S.pdf) | [link](AIM201-S.md) |
 | AIM204-S: Discovering the value of a cloud data platform | [video](https://www.youtube.com/watch?v=xFROBOaqqbw) | 1:02:48 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/Discovering_the_value_of_a_cloud_data_platform_AIM204-S.pdf) | [link]() |
 | ALX318: DevOps your Alexa skill: Why testing and automation matter | [video](https://www.youtube.com/watch?v=-3UkK5QLTjc) | 1:00:14 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/DevOps_your_Alexa_skill_Why_testing_and_automation_matter_ALX318.pdf) | [link]() |
 | DEM156: Secondary sensing in industrial IoT apps | [video](https://www.youtube.com/watch?v=3Bb-hcm67Zs) | 13:19 | [pdf](https://d1.awsstatic.com/events/reinvent/2019/Secondary_sensing_in_industrial_IoT_apps_DEM156.pdf) | [link]() |
