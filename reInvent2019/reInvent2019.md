@@ -19,7 +19,24 @@
 | SEC207-L: Leadership session: AWS identity | xx:xx | [video](https://www.youtube.com/watch?v=bqAGpeFUP9g) | [pdf]() | [link]() |
 | AIM204-S: Discovering the value of a cloud data platform | xx:xx | [video](https://www.youtube.com/watch?v=xFROBOaqqbw) | [pdf]() | [link]() |
 | MFG206-L: Leadership session: AWS for the Semiconductor industry | xx:xx | [video](https://www.youtube.com/watch?v=RuRnhVj5hIo) | [pdf]() | [link]() |
+| MKT203-R: Detect network and security anomalies with Traffic Mirroring [REPEAT] | xx:xx | [video](https://www.youtube.com/watch?v=UqgVESJc_yc) | [pdf]() | [link]() |
+| MKT201-R: Master your security in the cloud [REPEAT] | xx:xx | [video](https://www.youtube.com/watch?v=FRr5T7DxuZ0) | [pdf]() | [link]() |
+| RET203-L: Leadership session: Born from retail, built for retailers | xx:xx | [video](https://www.youtube.com/watch?v=UMFgLDk4nwQ) | [pdf]() | [link]() |
+| RET202-L: AI/ML drives CPG transformation & customer engagement | xx:xx | [video](https://www.youtube.com/watch?v=rHdpPHheY9M) | [pdf]() | [link]() |
+| OPN402: Firecracker open-source innovation | xx:xx | [video](https://www.youtube.com/watch?v=yDplzXEdBTI) | [pdf]() | [link]() |
+| DEM156: Secondary sensing in industrial IoT apps | xx:xx | [video](https://www.youtube.com/watch?v=3Bb-hcm67Zs) | [pdf]() | [link]() |
+| DEM04-S: Jenkins on AWS for both small teams and enterprises | xx:xx | [video](https://www.youtube.com/watch?v=XuYZk18PaPs) | [pdf]() | [link]() |
+| MGT205-S: Finding the signal in the noise when running cloud-native apps | xx:xx | [video](https://www.youtube.com/watch?v=nHDCJx894xA) | [pdf]() | [link]() |
+| EUC213: The New York Times: Improving customer care with Amazon Connect | xx:xx | [video](https://www.youtube.com/watch?v=GVQtp8WaGFY) | [pdf]() | [link]() |
+| DEM43-S: Unlock excellent end user experience with hybrid cloud DaaS | xx:xx | [video](https://www.youtube.com/watch?v=xMHmXREyQk8) | [pdf]() | [link]() |
+| ALX318: DevOps your Alexa skill: Why testing and automation matter | xx:xx | [video](https://www.youtube.com/watch?v=-3UkK5QLTjc) | [pdf]() | [link]() |
+| NFX202: A day in the life of a Netflix engineer | xx:xx | [video](https://www.youtube.com/watch?v=0QS1TWLooo0) | [pdf]() | [link]() |
+| ANT335-R: How to build your data analytics stack at scale with Amazon Redshift | xx:xx | [video](https://www.youtube.com/watch?v=svj3srbhfUw) | [pdf]() | [link]() |
+| DEM37-S: Delivering the enterprise data cloud | xx:xx | [video](https://www.youtube.com/watch?v=8o7pcglmuBo) | [pdf]() | [link]() |
+| DEM28-S: The quandary of containerized machine learning | xx:xx | [video](https://www.youtube.com/watch?v=d9WJm9xpUwY) | [pdf]() | [link]() |
+| DEM147: Using Amazon Textract for automated document processing | xx:xx | [video](https://www.youtube.com/watch?v=Hth17MmxwtQ) | [pdf]() | [link]() |
+| DEM13-S: Unlock the power of Amazon VPC traffic mirroring | xx:xx | [video](https://www.youtube.com/watch?v=OLS5uiXVImw) | [pdf]() | [link]() |
+| DEM09-S: Building secure AWS app workloads using automated best practices | xx:xx | [video](https://www.youtube.com/watch?v=sOrevw0wcCQ) | [pdf]() | [link]() |
   
 ###### | Session | xx:xx | [video]() | [pdf]() | [link]() |
 ###### Link to decks: https://aws.amazon.com/events/events-content/?awsf.filter-series=event-series%23reinvent
-###### Last video: Leadership session: Born from retail, built for retailers (RET203-L)
